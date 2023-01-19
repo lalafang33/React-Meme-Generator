@@ -1,0 +1,10 @@
+.nav-container {
+  background-color: #672280;
+  background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+  display: flex;
+}
+
+.nav-title {
+  color: #FFFFFF;
+  margin: 15px;
+}
